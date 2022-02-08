@@ -23,7 +23,7 @@ Event Sourcing is a method in which all changes are made by the event objects. T
 
 # Need of Event Sourcing Architecture
 
-Event Sourcing increases the overall scope of the architecture, to be specific if we require something accessible. There is a wide scope of 'event-driven architecture' as of today. For example, most of the product-based companies need to have a log of a lot of items number of orders, packages shipped, packages delivered, shipping status, items in the inventory, and an archive folder of the past items sold. Communicating through event messages provides an extremely great track of records and reduces the fragility of system failures.
+Event Sourcing increases the overall scope of the architecture, to be specific if we require something accessible. There is a wide scope of 'event-driven architecture' as of today. Most of the product-based companies need to have a log of a lot of items for example number of orders, packages shipped, packages delivered, shipping status, items in the inventory, an archive folder of the past items sold. Communicating through event messages provides an extremely great track of records and reduces the fragility of system failures.
 
 # Refrences
 
