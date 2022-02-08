@@ -29,6 +29,6 @@ Event Sourcing increases the overall scope of the architecture, to be specific i
 
 1.[*https://microservices.io/patterns/data/event-sourcing.html*]
 
-2.[*https://codeopinion.com/event-sourcing-example-explained-in-plain-english/]
+2.[*https://codeopinion.com/event-sourcing-example-explained-in-plain-english/*]
 
-3.[*https://martinfowler.com/eaaDev/EventSourcing.html]
+3.[*https://martinfowler.com/eaaDev/EventSourcing.html*]
